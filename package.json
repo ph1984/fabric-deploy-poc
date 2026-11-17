@@ -1,0 +1,5 @@
+{
+  "name": "fabric-deploy-poc",
+  "private": true,
+  "scripts": { "test": "node test.mjs" }
+}
